@@ -3,7 +3,6 @@
 #Programacion y metodos numericos
 
 **Ana Guadalupe Robles Rueda**
-** 359764 **
 
 En este repositorio se encuentran los codigos realizados  en los laboratorios 
 donde vimos temas como:
@@ -16,3 +15,5 @@ donde vimos temas como:
 6. [ Metodos abiertos](https://github.com/ana-robles25/Proyecto_PYMN_2020_2/tree/main/Practica6)
 7.[ Derivacion numerica  ](https://github.com/ana-robles25/Proyecto_PYMN_2020_2/tree/main/practica10)
 8. [Metodos de ecuaciones lineales](https://github.com/ana-robles25/Proyecto_PYMN_2020_2/tree/main/practica11)
+
+Todas los codigos fueron realizacos con C o C++.
