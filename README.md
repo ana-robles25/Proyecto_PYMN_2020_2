@@ -1,6 +1,6 @@
-## Universidad Autonoma de  Baja California
- #Facultad de Ingenieria, Arquitectura y Diseño
-#Programacion y metodos numericos
+#Universidad Autonoma de Baja California#
+ #Facultad de Ingenieria, Arquitectura y Diseño#
+#Programacion y metodos numericos#
 
 **Ana Guadalupe Robles Rueda**
 
