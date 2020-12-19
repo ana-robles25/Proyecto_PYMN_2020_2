@@ -16,4 +16,3 @@ donde vimos temas como:
 6. [ Metodos abiertos](https://github.com/ana-robles25/Proyecto_PYMN_2020_2/tree/main/Practica6)
 7.[ Derivacion numerica  ](https://github.com/ana-robles25/Proyecto_PYMN_2020_2/tree/main/practica10)
 8. [Metodos de ecuaciones lineales](https://github.com/ana-robles25/Proyecto_PYMN_2020_2/tree/main/practica11)
-
